@@ -1,0 +1,25 @@
+/*table {
+  border: 1px solid black;
+}*/
+
+body {
+  width: 550px;
+  margin: auto;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+}
+
+.square {
+  height: 80px;
+  width: 80px;
+  font-size: 40pt;
+  text-align: center;
+}
+
+#restart {
+  font-size: 18pt;
+  text-decoration: none;
+  color: black;
+}
